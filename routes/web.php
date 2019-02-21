@@ -17,5 +17,5 @@ Route::get('/', function () {
 
 
 Route::get('/post', function(){
-  return 'hellos';
+  return 'hellose';
 });
