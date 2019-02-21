@@ -16,6 +16,6 @@ Route::get('/', function () {
 });
 
 
-Route::get('/post', function(){
-  return 'hellose';
-});
+Route::get('/post', functon(){
+  return 'hello';
+})
